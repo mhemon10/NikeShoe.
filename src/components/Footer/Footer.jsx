@@ -8,7 +8,7 @@ const Footer = () => {
         {/* Column 1 */}
         <div className="footer-col">
           <a href="#" className="logo">
-            Modern<span>Shoe.</span>
+            Nike<span>Shoe.</span>
           </a>
         </div>
 
@@ -52,7 +52,7 @@ const Footer = () => {
       </div>
 
       <div className="footer-bottom">
-        © {new Date().getFullYear()} ModernShoe. All rights reserved.
+        © {new Date().getFullYear()} NikeShoe. All rights reserved.
       </div>
     </footer>
   );

@@ -52,12 +52,12 @@
 }
 
 .socials a:hover {
-    color: #60D3FB;
+    color: #ff2306;
     transform: translateY(-5px);
 }
 
 .hero-text button {
-    background: #60d3fb;
+    background: #ff2306;
     color: #fff;
     width: 100%;
     padding: 12px 24px;
@@ -70,12 +70,14 @@
 }
 
 .hero-text button:hover {
-    background: #4bb8e0;    
+    background: #880904;    
     transform: translateY(-2px);
 }
 
 .hero-image img {
     transform: rotate(10deg);
+    height: 400px;
+    width: 578px;
 }
 
  .paint-splash {
@@ -83,7 +85,7 @@
       right: 0;
       width: 400px;
       height: 800px;
-      background: radial-gradient(circle at center, #60d3fb 40%, transparent 70%);
+      background: radial-gradient(circle at center, #ff2306 10%, transparent 70%);
       border-radius: 50%;
       filter: blur(80px);
       z-index: 0;
@@ -102,7 +104,8 @@
     }
 
     .hero-image img {
-        width: 70%;
+        width: 90%;
+        margin-top: 100px;
     }
 
     .paint-splash {

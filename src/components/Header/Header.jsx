@@ -12,7 +12,7 @@ const Header = () => {
     <>
       <div className="header">
         <a href="#" className="logo">
-          Modern<span>Shoe.</span>
+          Nike<span>Shoe.</span>
         </a>
         <nav>
           <ul className="nav-links">
